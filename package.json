@@ -1,0 +1,19 @@
+{
+  "name": "@basoftvn/http-transport",
+  "version": "0.0.1",
+  "author": "BASoft Co., Ltd.",
+  "contributors": [
+    "BASoft Co., Ltd.",
+    "Hai Binh N. <binhmattroi@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basoftvn/http-transport.git"
+  },
+  "private": false,
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/basoftvn/http-transport/issues"
+  },
+  "homepage": "https://github.com/basoftvn/http-transport#readme"
+}
